@@ -15,12 +15,12 @@
     font-size: 85%;
   }
   
-  h1 #logo {
+  #logo h1 {
     height: 35px;
     width: 35px;
   }
   
-  h2 #logo {
+  #logo h2 {
     font-size: 2.2em;
   }
   
