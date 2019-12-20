@@ -27,4 +27,8 @@
   #social {
     padding: 72px 0 0 0;
   }
+  
+  .col-3 p {
+    column-count: 2;
+  }
 }
