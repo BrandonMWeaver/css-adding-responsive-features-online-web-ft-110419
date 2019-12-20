@@ -34,3 +34,7 @@
     column-gap: 1.5em;
   }
 }
+
+@media only screen and (max-width: 750px) {
+  
+}
